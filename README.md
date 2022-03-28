@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api?username=rockadev
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rockadev)](https://github.com/anuraghazra/github-readme-stats)
